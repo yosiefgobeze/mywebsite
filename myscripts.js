@@ -1,0 +1,1 @@
+console.log("I am planning to create my own website!");
